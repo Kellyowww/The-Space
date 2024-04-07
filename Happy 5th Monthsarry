@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Long Distance Relationship Anniversary Celebration</title>
+    <style>
+        body {
+            background-image: url('https://img.freepik.com/free-vector/watercolor-valentine-s-day-background_23-2149225553.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        #gif {
+            max-width: 80%;
+            margin: 20px auto;
+        }
+        #message {
+            color: PURPLE;
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <img id="gif" src="https://media1.tenor.com/m/U6vEGfl763sAAAAC/romantic-shoulder.gif" alt="GIF">
+        <div id="message">
+            <p>Happy 5th Monthsarry, Mahal ko!</p>
+            <p>Even miles apart, our love continues to grow stronger every day. </p>
+            <p>everything na nangyare sa'tin especially yung super away days.</p>
+            <p>I love how you became the rock in our relationship, naging matatag kang haligi habang nanghihina ako.</p>
+            <p>Thank you for always fighting for us, and thank you for all the efforts that you gave in our relationship.</p>
+            <p>Here's to many more beautiful moments together. I love you endlessly!</p>
+        </div>
+    </div>
+
+    <script>
+        // You can add JavaScript functionalities here if needed
+    </script>
+</body>
+</html>
